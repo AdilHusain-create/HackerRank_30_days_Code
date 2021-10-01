@@ -16,6 +16,5 @@ public class Solution {
             System.out.println(i + numInt);
             System.out.println(d + numDouble);
             System.out.println(s + printString);
-    }
-    
+    }   
 }
